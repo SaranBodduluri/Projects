@@ -1,1 +1,3 @@
 # MyProjects
+
+A conglomeration of all the projects that I have worked on...
