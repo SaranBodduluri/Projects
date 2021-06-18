@@ -1,6 +1,6 @@
 # Projects
 
-This repository is a conglomeration of all the projects that I have worked on.
+This repository is a conglomeration of the projects that I have worked on.
 
 - [Sudoku Solver](https://github.com/SaranBodduluri/Sudoku-solver)
 - [Scientific Calculator](https://github.com/SaranBodduluri/Scientific-Calculator)
