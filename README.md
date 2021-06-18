@@ -1,4 +1,4 @@
-# MyProjects
+# Projects
 
 This repository is a conglomeration of all the projects that I have worked on.
 
