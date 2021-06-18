@@ -15,3 +15,5 @@ This repository is a conglomeration of the projects that I have worked on.
 
 There are more projects that I am working on.\
 Hoepfully they will be added here soon :)
+
+<!-- This is a temporary place to hold all the project links. -->
