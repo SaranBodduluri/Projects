@@ -12,7 +12,7 @@ This repository is a conglomeration of the projects that I have worked on.
   I was a member of the web development team of KAZE, which is the annual techno-cultural fest of SNU. I worked on the front end of login, signup pages and the carousel in the performers page.  
 
 ----
-This is a temporary place to hold all the project links.
+ⓘ This is a temporary place to hold all the project links.
 
 <!-- 
 
