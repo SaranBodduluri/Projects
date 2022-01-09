@@ -3,6 +3,9 @@
 This repository is a conglomeration of the projects that I have worked on.
 
 - [Efficient Frontier](https://github.com/SaranBodduluri/Efficient-Frontier) 
+- [Credit Qualification Project](https://github.com/SaranBodduluri/Credit-Qualification-Project)
+- [SandP Hangman](https://github.com/SaranBodduluri/SandPHangman)
+- [Rudichain](https://github.com/SaranBodduluri/Rudichain)
 - [Sudoku Solver](https://github.com/SaranBodduluri/Sudoku-solver)
 - [Scientific Calculator](https://github.com/SaranBodduluri/Scientific-Calculator)
 - [Authentication System](https://github.com/SaranBodduluri/Authentication-system) 
