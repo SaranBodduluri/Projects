@@ -2,7 +2,8 @@
 
 This repository is a conglomeration of the projects that I have worked on.
 
-- [Efficient Frontier](https://github.com/SaranBodduluri/Efficient-Frontier) 
+- [DCF Model](https://github.com/SaranBodduluri/DCF-Model)
+- [The Efficient Frontier](https://github.com/SaranBodduluri/Efficient-Frontier) 
 - [Credit Qualification Project](https://github.com/SaranBodduluri/Credit-Qualification-Project)
 - [SandP Hangman](https://github.com/SaranBodduluri/SandPHangman)
 - [Rudichain](https://github.com/SaranBodduluri/Rudichain)
